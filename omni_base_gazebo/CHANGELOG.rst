@@ -2,6 +2,56 @@
 Changelog for package omni_base_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.9 (2024-07-08)
+------------------
+* Merge branch 'abr/feat/advanced-navigation' into 'humble-devel'
+  added advanced navigation
+  See merge request robots/omni_base_simulation!20
+* added advanced navigation
+* Contributors: antoniobrandi, davidterkuile
+
+2.0.8 (2024-07-05)
+------------------
+* Add slam argument for navigation
+* Contributors: Noel Jimenez
+
+2.0.7 (2024-06-28)
+------------------
+* Merge branch 'dtk/add-on-module' into 'humble-devel'
+  Change rgbd sensors to add-on-module
+  See merge request robots/omni_base_simulation!19
+* Change rgbd sensors to add-on-module
+* Contributors: David ter Kuile, davidterkuile
+
+2.0.6 (2024-06-26)
+------------------
+* Merge branch 'dtk/move-robot-args' into 'humble-devel'
+  Dtk/move robot args
+  See merge request robots/omni_base_simulation!18
+* Change import for launch args
+* Contributors: David ter Kuile, davidterkuile
+
+2.0.5 (2024-06-25)
+------------------
+* Merge branch 'dtk/standardize-pkg' into 'humble-devel'
+  Dtk/standardize pkg
+  See merge request robots/omni_base_simulation!17
+* Fix linters
+* Remove unnecessary dependency
+* Updat launch structure
+* Contributors: David ter Kuile, davidterkuile
+
+2.0.4 (2024-05-08)
+------------------
+* Merge branch 'man/omni-base-gazebo-spawn' into 'humble-devel'
+  added pose conifiguration in spawn_entity args
+  See merge request robots/omni_base_simulation!16
+* added pose configration in spawn entity
+* added pose variables in spawn entity
+* added pose arguments in spawn_entity
+* added pose conifiguration in spawn_entity args
+* Contributors: antoniobrandi, martinaannicelli
+
 2.0.3 (2024-04-15)
 ------------------
 * Merge branch 'omm/feat/public_sim_control' into 'humble-devel'
