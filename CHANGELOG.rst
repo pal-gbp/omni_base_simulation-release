@@ -2,6 +2,23 @@
 Changelog for package omni_base_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.4.0 (2025-01-23)
+------------------
+* support camera model
+* Contributors: antoniobrandi
+
+2.3.0 (2024-12-02)
+------------------
+* Merge branch 'abr/feat/docking' into 'humble-devel'
+  using docking arg
+  See merge request robots/omni_base_simulation!28
+* always start docking with adv navigation
+* using docking arg
+* Contributors: antoniobrandi
+
+2.2.1 (2024-11-15)
+------------------
+
 2.2.0 (2024-10-16)
 ------------------
 * Merge branch 'man/feat/advanced-nav' into 'humble-devel'
