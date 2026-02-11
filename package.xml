@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="3">
   <name>omni_base_gazebo</name>
-  <version>2.10.1</version>
+  <version>2.11.1</version>
   <description>The omni_base_gazebo package</description>
   <author email="yue.erro@pal-robotics.com">Yue Erro</author>
   <author email="andrea.capodacqua@pal-robotics.com">Andrea Capodacqua</author>
@@ -20,6 +20,7 @@
   <exec_depend>pal_maps</exec_depend>
   <exec_depend>omni_base_2dnav</exec_depend>
   <exec_depend>omni_base_laser_sensors</exec_depend>
+  <exec_depend>omni_base_rgbd_sensors</exec_depend>
   <exec_depend>omni_base_bringup</exec_depend>
   <exec_depend>omni_base_description</exec_depend>
   <exec_depend>pal_urdf_utils</exec_depend>
