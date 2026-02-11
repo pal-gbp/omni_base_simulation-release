@@ -2,6 +2,16 @@
 Changelog for package omni_base_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.11.1 (2025-12-15)
+-------------------
+* missing deps
+* Contributors: antoniobrandi
+
+2.11.0 (2025-12-12)
+-------------------
+* Point Cloud filter pipeline
+* Contributors: antoniobrandi
+
 2.10.1 (2025-10-27)
 -------------------
 * added missing dep for public sim
